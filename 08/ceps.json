@@ -1,0 +1,62 @@
+[
+    {
+        "cep": "26291-368",
+        "logradouro": "Rua Juá",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Cabuçu",
+        "localidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3303500",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "5869"
+    },
+    {
+        "cep": "20010-020",
+        "logradouro": "Rua São José",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Centro",
+        "localidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3304557",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "6001"
+    },
+    {
+        "cep": "20010-060",
+        "logradouro": "Rua Visconde de Itaboraí",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Centro",
+        "localidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3304557",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "6001"
+    },
+    {
+        "cep": "20010-100",
+        "logradouro": "Rua Jacó do Bandolim",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Centro",
+        "localidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3304557",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "6001"
+    }
+]
